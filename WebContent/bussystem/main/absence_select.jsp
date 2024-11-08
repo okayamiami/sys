@@ -4,7 +4,16 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>欠席機能選択</title>
+	<form action = "AbsenceConect.action" method="post">
+		<input type="submit" value="欠席連絡">
+	</form>
+	<form action = "AbsenceReport.action" method="post">
+		<input type="submit" value="欠席報告">
+	</form>
+
+	<%--<a href="StudentList.action">戻る</a>--%>
+
 </head>
 <body>
 
