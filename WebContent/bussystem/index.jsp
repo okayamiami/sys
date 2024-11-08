@@ -7,7 +7,7 @@
 <title></title>
 
 <script>
-location.href="/kindergarten/bussystem/Login.action";
+location.href="/sys/bussystem/Login.action";
 </script>
 
 </head>
