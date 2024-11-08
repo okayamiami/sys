@@ -13,7 +13,12 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="C:/Users/2374550/Downloads/core-3.4.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/2374550/Downloads/javase-3.4.1.jar"/>
+=======
+	<classpathentry kind="lib" path="C:/Users/2374471/Desktop/javase-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/2374471/Desktop/core-3.4.1.jar"/>
+>>>>>>> branch 'master' of https://github.com/okayamiami/sys.git
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
